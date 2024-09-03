@@ -20,7 +20,7 @@ Here are some of the languages and tools I work with:
 ## 📫 Get in Touch
 
 - [Twitter]([Dein Twitter-Profil-Link](https://x.com/jan12121995)
-- [Email](mailto:DeineEmail@domain.com)
+- [Email](jan-riemenschenider@hotmail.de)
 
 Feel free to check out my repositories and projects. I'm always open to collaboration or just a chat about tech!
 
