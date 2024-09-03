@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving deep i
 ## 🚀 About Me
 
 - 💼 Currently enrolled in a Web Development Bootcamp to sharpen my skills in front-end and back-end technologies.
-- 🌱 I’m currently learning modern web development technologies, including JavaScript, React, and Node.js.
+- 🌱 I’m currently learning modern web development technologies, including JavaScript, React, and Next.js.
 - 💬 Ask me about web development, coding best practices, or anything tech-related!
 - 🎯 2024 Goals: Complete my bootcamp and work on real-world projects to apply my skills.
 - ⚡ Fun fact: I love mayonnaise on all kinds of food!
