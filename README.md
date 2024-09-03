@@ -14,9 +14,17 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving deep i
 
 Here are some of the languages and tools I work with:
 
-- **Languages:** Html, CSS, JavaScript,
-- **Tools:** Git, VS Code, Next.js, React, MongoDB
+- **Languages:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;"/>
 
+- **Tools:**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="30" height="30" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;"/>
 ## 📫 Get in Touch
 
 - [My Twitter Profile](https://x.com/jan12121995)
