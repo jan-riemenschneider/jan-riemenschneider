@@ -19,8 +19,8 @@ Here are some of the languages and tools I work with:
 
 ## 📫 Get in Touch
 
-- [Twitter](https://x.com/jan12121995)
-- [Email](jan-riemenschenider@hotmail.de)
+- [My Twitter Profile](https://x.com/jan12121995)
+- [My Email](jan-riemenschenider@hotmail.de)
 
 Feel free to check out my repositories and projects. I'm always open to collaboration or just a chat about tech!
 
