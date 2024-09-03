@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate developer currently diving deep into the world of web development through an intensive bootcamp. I love creating innovative solutions and am always eager to learn new technologies.
 
 ## 🚀 About Me
-.html
 
 - 💼 Currently enrolled in a Web Development Bootcamp to sharpen my skills in front-end and back-end technologies.
 - 🌱 I’m currently learning modern web development technologies, including JavaScript, React, and Node.js.
@@ -15,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving deep i
 
 Here are some of the languages and tools I work with:
 
-- **Languages:** HTML, CSS, JavaScript, Python
+- **Languages:** Html, CSS, JavaScript, Python
 - **Tools:** Git, VS Code, Next.js, React, MongoDB
 
 ## 📫 Get in Touch
