@@ -24,4 +24,4 @@ Here are some of the languages and tools I work with:
 
 Feel free to check out my repositories and projects. I'm always open to collaboration or just a chat about tech!
 
-Thanks you!
+See you!
