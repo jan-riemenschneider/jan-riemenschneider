@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently diving deep i
 
 Here are some of the languages and tools I work with:
 
-- **Languages:** Html, CSS, JavaScript, Python
+- **Languages:** Html, CSS, JavaScript,
 - **Tools:** Git, VS Code, Next.js, React, MongoDB
 
 ## 📫 Get in Touch
