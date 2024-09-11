@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jan Riemenschneider!
+# 👋 Hi there, I'm Jan!
 
 Welcome to my GitHub profile! I'm a passionate developer currently diving deep into the world of web development through an intensive bootcamp. I love creating innovative solutions and am always eager to learn new technologies.
 
