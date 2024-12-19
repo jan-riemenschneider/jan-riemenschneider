@@ -1,18 +1,18 @@
-# 👋 Hey, I'm Jan!
+# 👋 Hi, I'm Jan!
 
-Welcome to my GitHub profile! I'm a passionate developer currently diving deep into the world of web development through an intensive bootcamp. I love creating innovative solutions and am always eager to learn new technologies.
+Welcome to my GitHub profile! I'm a dedicated and passionate web developer, recently graduated from an intensive web development bootcamp, and currently exploring exciting opportunities to kick-start my career in tech.
 
 ## 🚀 About Me
 
-- 💼 Currently enrolled in a Web Development Bootcamp to sharpen my skills in front-end and back-end technologies.
-- 📈 I have 9 years of experience in sales, where I developed strong communication and problem-solving skills, which I now bring into tech.
-- 🌱 I’m currently learning modern web development technologies, including JavaScript, React, and Next.js.
-- 🎯 2024 Goals: Complete my bootcamp, build real-world projects, and transition into a full-time developer role.
-- ⚡ Fun fact: I’m a passionate athlete and love cycling and running in my free time. And yes, I still love mayonnaise on all kinds of food!
+- 💼 **Bootcamp Graduate**: Successfully completed the neueFische Web Development Bootcamp, focusing on both front-end and back-end technologies.  
+- 📈 **Previous Experience**: 9 years in sales, where I honed strong communication and problem-solving skills, which I now bring to the tech world.  
+- 🌱 **Currently Learning**: JavaScript, React, Next.js, and modern development workflows.  
+- 🎯 **Goals for 2025**: Build impactful, real-world projects, continuously expand my skill set, and start my journey as a full-time developer.  
+- ⚡ **Fun Fact**: Outside of coding, I'm an athlete who loves cycling and running. Also, mayonnaise? It’s my go-to for all kinds of food!
 
 ## 🛠️ Languages and Tools
 
-Here are some of the languages and tools I work with:
+Here’s what I’ve been working with:
 
 - **Languages:**
    
