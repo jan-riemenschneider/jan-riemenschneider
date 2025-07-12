@@ -1,40 +1,31 @@
-# 👋 Hi, I'm Jan!
+# ✌🏼 Hi, I'm Jan!
 
-Welcome to my GitHub profile! I'm a dedicated and passionate web developer, recently graduated from an intensive web development bootcamp, and currently exploring exciting opportunities to kick-start my career in tech.
+Welcome to my GitHub profile!
 
-## 🚀 About Me
+## 🚀 What I'm working on
+- Building full-stack apps with React & Node.js
+- Working on interesting projects you can check out
+- Currently working on my website to give it a big update
+- Always learning new tools especially in web development
 
-- 💼 **Bootcamp Graduate**: Successfully completed the neueFische Web Development Bootcamp, focusing on both front-end and back-end technologies.  
-- 📈 **Previous Experience**: 9 years in sales, where I honed strong communication and problem-solving skills, which I now bring to the tech world.  
-- 🌱 **Currently Learning**: TypeScript, React Native, Next.js, and modern development workflows.  
-- 🎯 **Goals for 2025**: Build impactful, real-world projects, continuously expand my skill set, and start my journey as a full-time developer.  
-- ⚡ **Fun Fact**: Outside of coding, I'm an athlete who loves cycling and running. Also, mayonnaise? It’s my go-to for all kinds of food!
-
-## 🛠️ Languages and Tools
-
-Here’s what I’ve been working with:
+## 🛠️ Languages and Tools I use: 
 
 - **Languages:**
    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" style="margin-right: 10px;"/>
-
-- **Tools:**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-right: 10px;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" alt="Vitest" width="50" height="50" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original-wordmark.svg" alt="Supabase" width="50" height="50" style="margin-right: 10px;"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="30" height="30" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin-right: 10px;"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;"/>
-
 ## 📫 Get in Touch
 
 - [My LinkedIn Profile](https://www.linkedin.com/in/jan-riemenschneider)
-- [My Email](mailto:jan-riemenschneider@outlook.de)
 
-Feel free to check out my repositories and projects. I'm always open to collaboration or just a chat about tech!
+Feel free to check out my repositories and projects.
 
 See you!
